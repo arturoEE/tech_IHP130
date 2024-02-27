@@ -1,7 +1,9 @@
-# Technology PDK layer for tech_sky130B
+# Technology PDK layer for tech_IHP130
 
 This is not a full PDK, it's a small layer of customization on top of the
 existing PDK.
+
+Forked from wulffern's setup for SKY130nm
 
 
 | Folder  | Description                                                                             |
